@@ -2,5 +2,5 @@
 mahair menggunakan javascript
 mahir menggunakan node.js
 membuat aplikasi chat bot
-membuat aplikasi auto auto an
+mahir bahasa go lang
 software enginer 
