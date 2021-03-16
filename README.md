@@ -6,3 +6,4 @@ membuat aplikasi chat bot
 mahir bahasa go lang
 software enginer 
 youtube
+
